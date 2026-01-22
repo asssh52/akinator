@@ -1,1 +1,1 @@
-funny akinator 
+funny akinator - check branch 'akinator'!
